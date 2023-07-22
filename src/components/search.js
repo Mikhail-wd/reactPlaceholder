@@ -1,7 +1,7 @@
 import { useState } from "react";
 import Search from "../img/search-svgrepo-com 1.svg";
 
-import { useDispatch, useSelector } from "react-redux";
+import { useDispatch } from "react-redux";
 
 function Searching() {
     const [searchData, searchDataSet] = useState('')

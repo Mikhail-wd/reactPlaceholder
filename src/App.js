@@ -23,7 +23,7 @@ function App() {
 
   function prevPage() {
 
-    if (currentPage > 1 && currentPage < maxPages) {
+    if (currentPage > 1 && currentPage <= maxPages) {
       window.history.pushState({}, {}, currentPage - 1)
       dispatch({ type: 'prevPage' })
     }
