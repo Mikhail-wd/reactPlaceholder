@@ -1,18 +1,18 @@
 {
   "files": {
     "main.css": "/reactPlaceholder/static/css/main.583d372a.css",
-    "main.js": "/reactPlaceholder/static/js/main.b2765732.js",
-    "static/js/106.3a8c91ec.chunk.js": "/reactPlaceholder/static/js/106.3a8c91ec.chunk.js",
+    "main.js": "/reactPlaceholder/static/js/main.b908abf7.js",
+    "static/js/106.3c00df0d.chunk.js": "/reactPlaceholder/static/js/106.3c00df0d.chunk.js",
     "static/js/787.2c4b259b.chunk.js": "/reactPlaceholder/static/js/787.2c4b259b.chunk.js",
     "static/media/search-svgrepo-com 1.svg": "/reactPlaceholder/static/media/search-svgrepo-com 1.534d1a839c2cd926be2654c834c04764.svg",
     "index.html": "/reactPlaceholder/index.html",
     "main.583d372a.css.map": "/reactPlaceholder/static/css/main.583d372a.css.map",
-    "main.b2765732.js.map": "/reactPlaceholder/static/js/main.b2765732.js.map",
-    "106.3a8c91ec.chunk.js.map": "/reactPlaceholder/static/js/106.3a8c91ec.chunk.js.map",
+    "main.b908abf7.js.map": "/reactPlaceholder/static/js/main.b908abf7.js.map",
+    "106.3c00df0d.chunk.js.map": "/reactPlaceholder/static/js/106.3c00df0d.chunk.js.map",
     "787.2c4b259b.chunk.js.map": "/reactPlaceholder/static/js/787.2c4b259b.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.583d372a.css",
-    "static/js/main.b2765732.js"
+    "static/js/main.b908abf7.js"
   ]
 }
