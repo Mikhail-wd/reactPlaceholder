@@ -10,7 +10,7 @@ function Searching() {
     function searching(data){
         searchDataSet(data);
         window.history.pushState({},{},1)
-        if (data == "")
+        if (data === "")
         {
             dispatch({type:"search", payload:null});
             dispatch({type:"activePage", payload:1});
